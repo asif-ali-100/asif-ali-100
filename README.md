@@ -67,10 +67,4 @@ Kochi | Present
 
 ---
 
-## CV
-
-I can provide my CV on request or you can add a PDF named `CV-Asif-Ali.pdf` to this repository. To request a copy, email: asifhakeem200@gmail.com
-
----
-
 _Last updated: 2026-07-31_

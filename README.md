@@ -4,7 +4,6 @@ Aspiring Embedded Engineer | Embedded C & PCB Design
 
 Kochi, Kerala, India  •  +91 9526694506  •  asifhakeem200@gmail.com
 
-GitHub: https://github.com/asif-ali-100
 LinkedIn: www.linkedin.com/in/asif-ali-professional
 
 
